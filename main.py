@@ -43,4 +43,3 @@ if __name__ == "__main__":
     window = MainWindow()
     app.exec_()
 
-    # Run the program and just get the benfits
